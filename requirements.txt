@@ -1,0 +1,22 @@
+# Transformers & Sentence Transformers
+transformers==4.45.0
+sentence-transformers==2.2.2
+
+# FAISS for vector search
+faiss-cpu==1.7.3
+
+# PyTorch
+torch==2.1.0
+
+# Utilities
+numpy==1.25.2
+pandas==2.1.1
+
+# Jupyter
+notebook==7.1.1
+
+# Gradio for deployment
+gradio==3.48.0
+
+# Optional: for reading/writing pickle
+cloudpickle==2.2.1
